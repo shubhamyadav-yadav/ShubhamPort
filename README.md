@@ -51,3 +51,6 @@ The portfolio includes the following sections:
 | Solve button | Automatically solve cube |
 
 ---
+here is the live demo of it
+## 🌐 Live Demo
+[View Portfolio](https://shubham-port-gold.vercel.app/)
