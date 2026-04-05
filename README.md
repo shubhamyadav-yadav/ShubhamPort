@@ -51,10 +51,3 @@ The portfolio includes the following sections:
 | Solve button | Automatically solve cube |
 
 ---
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Brahmpreett/rubikscube.git
